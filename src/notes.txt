@@ -1,0 +1,2 @@
+1. install material ui in terminal
+2. 
